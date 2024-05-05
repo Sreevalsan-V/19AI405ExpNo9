@@ -1,6 +1,6 @@
 # EX-09 Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: SREEVALSAN V</h3>
+<h3>Register Number: 212223240158</h3>
 
 ### Aim:
 <table>
